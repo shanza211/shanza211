@@ -2,8 +2,9 @@
 <h1 align="center">✨ Shanzy Saleem ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Designing+Elegant+Experiences...;Crafting+Figma+Prototypes...;WordPress+Expert...;UX+Unleashed." alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=28&duration=5000&pause=1000&center=true&vCenter=true&width=700&lines=✨+Crafting+Elegant+Digital+Experiences+✨;🎨+Mastering+Figma+Prototypes+🎨;🌐+Expert+in+WordPress+and+UI%2FUX+🌐;💡+Transforming+Ideas+Into+Visual+Stories+💡;🌸+Designing+With+Elegance+and+Purpose+🌸" alt="Typing SVG">
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/UX/UI%20Design-Figma-%23F24E1E?style=flat&logo=figma&logoColor=white">
