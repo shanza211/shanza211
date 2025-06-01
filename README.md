@@ -5,12 +5,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=28&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Crafting+Elegant+Digital+Experiences;Mastering+Figma+Prototypes;Expert+in+WordPress+and+UI%2FUX;Transforming+Ideas+Into+Visual+Stories;Designing+With+Elegance+and+Purpose" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1531746790731-6c087fecd65a?ixlib=rb-4.0.3&auto=format&fit=crop&w=1950&q=80" width="100%" alt="Design Banner" />
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/UX/UI%20Design-Figma-%23F24E1E?style=flat&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Web%20Design-WordPress-%232682D1?style=flat&logo=wordpress&logoColor=white">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-%23ff69b4?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio Badge">
+  <img src="https://img.shields.io/badge/UI%2FUX%20Design-Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge">
+  <img src="https://img.shields.io/badge/Web%20Design-WordPress-%232682D1?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Badge">
+  <img src="https://img.shields.io/badge/Creative-Mind-%23FFC0CB?style=for-the-badge" alt="Creative Mind Badge">
 </p>
+
 
 <blockquote align="center">"Design is the silent ambassador of your brand." – Paul Rand</blockquote>
 
