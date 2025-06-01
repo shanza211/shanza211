@@ -2,7 +2,7 @@
 <h1 align="center">✨ Shanzy Saleem ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=28&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Crafting+Elegant+Digital+Experiences;Mastering+Figma+Prototypes;Expert+in+WordPress+and+UI%2FUX;Transforming+Ideas+Into+Visual+Stories;Designing+With+Elegance+and+Purpose" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=roboto+Display&size=28&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Crafting+Elegant+Digital+Experiences;Mastering+Figma+Prototypes;Expert+in+WordPress+and+UI%2FUX;Transforming+Ideas+Into+Visual+Stories;Designing+With+Elegance+and+Purpose" alt="Typing SVG" />
 </p>
 
 <p align="center">
