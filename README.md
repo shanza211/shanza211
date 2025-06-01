@@ -1,4 +1,3 @@
-
 <h1 align="center">✨ Shanzy Saleem ✨</h1>
 
 <p align="center">
@@ -15,8 +14,9 @@
   <img src="https://img.shields.io/badge/Creative-Mind-%23FFC0CB?style=for-the-badge" alt="Creative Mind Badge">
 </p>
 
-
 <blockquote align="center">"Design is the silent ambassador of your brand." – Paul Rand</blockquote>
+
+<br />
 
 ### About Me
 
@@ -26,19 +26,30 @@ An expert **UI/UX designer** with a passion for creating **seamless user experie
 🎨 **Crafting experiences that resonate, with a touch of elegance.**  
 🖌️ **Figma, WordPress, and beyond – shaping the web with purpose and style.**
 
+<br />
+
 ### 📌 My Portfolio
+
 Dive into my latest works and discover designs that speak louder than words:  
 [🌐 Visit my Portfolio](https://shanzysaleem.me)
 
+<br />
+
 ### 🤝 Connect with Me
+
 Let's create something extraordinary together:  
 [🔗 LinkedIn](https://shanzysaleem.me)  
+
+<br />
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shanzy-saleem&theme=gruvbox&title=Followers,Stars,Commit,Repositories" alt="Trophies">
 </p>
 
+<br />
+
 ### 🌟 Skills & Tools
+
 <p align="center">
   <img src="https://img.shields.io/badge/Design-Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/CMS-WordPress-%232682D1?style=for-the-badge&logo=wordpress&logoColor=white">
@@ -46,10 +57,14 @@ Let's create something extraordinary together:
   <img src="https://img.shields.io/badge/Prototypes-Pixel%20Perfect-%23E91E63?style=for-the-badge">
 </p>
 
+<br />
+
 ### ✨ Fun Fact
+
 I believe **great design tells a story**, and I’m here to make every project unforgettable.
+
+<br />
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=monokai" alt="Jokes" />
 </p>
-
