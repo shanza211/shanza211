@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*YdJeim_iJpNxW9SU4PHWhg.gif" width="100%" alt="Design Banner" />
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*YdJeim_iJpNxW9SU4PHWhg.gif" width="50%" alt="Design Banner" />
 </p>
 
 <p align="center">
