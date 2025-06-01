@@ -1,166 +1,51 @@
-# Shanzy Saleem 🌸  
-### Expert UI/UX Designer & WordPress Developer
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=28&pause=1200&color=F78FB3&width=500&lines=Designing+with+purpose;Crafting+engaging+experiences;Building+beautiful+websites" alt="Typing animation" />
-</p>
+<h1><b>Crafting seamless UI/UX & custom WordPress solutions — I’m Shanzy Saleem</b> <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="30"></h1>
 
----
+<br>
 
-## About Me
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=D6336C&width=460&lines=UI%2FUX+Designer+%26+WordPress+Developer;Design+Research+%7C+Wireframing+%7C+Responsive+Design;Custom+Themes+%26+Plugins+With+Code)
 
-I’m Shanzy Saleem, a passionate UI/UX designer and WordPress developer with a flair for crafting digital experiences that balance elegance and usability. I believe every design should tell a story — one that connects users emotionally and makes their journey effortless.
+<br>
 
-With years of experience transforming ideas into intuitive interfaces, I specialize in creating responsive, accessible, and visually compelling websites that empower brands and delight users.
+<img src="https://media.giphy.com/media/3o7aD6LSltzMJXnEn6/giphy.gif" width="40">&nbsp; ***About Me***
 
----
+<img align="right" width="200px" alt="Creative Designer" src="https://media.giphy.com/media/1g3A2A2tbjYb52qkCo/giphy.gif" />
 
-## What I Do
+I’m Shanzy Saleem, a UI/UX designer and WordPress developer who loves turning ideas into engaging, user-friendly websites and apps. I combine solid design research and wireframing with custom WordPress development to deliver polished digital products that work beautifully across devices.
 
-- **User Interface Design:** Creating clean, modern, and user-friendly layouts using the latest design principles and tools.  
-- **User Experience Strategy:** Focusing on seamless interactions and intuitive flows that boost engagement and retention.  
-- **WordPress Development:** Building robust, scalable WordPress sites, custom themes, and plugins that perfectly fit client needs.  
-- **Responsive Design:** Ensuring flawless performance across all devices and screen sizes.  
-- **Collaboration:** Working closely with clients and developers to deliver pixel-perfect results on time.
+*I’m passionate about simplicity, clarity, and crafting memorable user experiences.*  
+*Always learning and experimenting with the latest design tools and coding techniques.*
 
 ---
 
-## My Toolbox
+<img src="https://media.giphy.com/media/l0MYK8x2OrocybqZK/giphy.gif" width="40">&nbsp; ***Core Skills***
 
-| Design                | Development              | Collaboration           |
-|-----------------------|--------------------------|-------------------------|
-| Figma, Adobe XD, Sketch | WordPress, PHP, HTML, CSS, JavaScript | Git, GitHub, Slack, Trello |
-
----
-
-## My Approach
-
-Design is more than aesthetics — it’s about empathy and understanding real users’ needs. I dive deep into user research and feedback to craft experiences that feel natural and enjoyable.
-
-I’m a strong believer in **clean code, reusable components, and scalable architecture**, ensuring that every website is easy to maintain and extend.
+* User research & wireframing (Figma, Adobe XD, Sketch)  
+* Responsive UI design & prototyping  
+* Custom WordPress theme & plugin development  
+* HTML, CSS, JavaScript & Tailwind CSS  
+* PHP & WordPress API integrations  
+* Git & GitHub for collaboration & version control  
 
 ---
 
-## Selected Work
+<img src="https://media.giphy.com/media/3o6ZtiN27DQcHcThsk/giphy.gif" width="40">&nbsp; ***Selected Projects***
 
-Here are a few projects that reflect my style and expertise:
-
-- [Portfolio Website](https://yourportfolio.com) — Showcasing my UI/UX and development skills  
-- [Client Project 1](https://clientproject1.com) — WordPress custom theme with advanced functionality  
-- [Client Project 2](https://clientproject2.com) — Responsive e-commerce site with seamless UX  
-
-*(Feel free to replace the links with your real projects)*
+* [Portfolio Site](https://example.com/portfolio) — Showcasing UI/UX and WordPress work with a clean, modern aesthetic.  
+* [E-Commerce Platform](https://example.com/ecommerce) — Fully responsive WooCommerce store with custom features.  
+* [B2B Dashboard](https://example.com/b2b-dashboard) — User-friendly, data-driven dashboard with intuitive UX.
 
 ---
 
-## Let’s Connect!
+<img src="https://media.giphy.com/media/xT8qBepJQv5fVZT0pi/giphy.gif" width="40">&nbsp; ***Let’s Connect***
 
-I’m always open to new opportunities, collaborations, or simply to chat about design and development.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23E1306C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanzysaleem)  
-[![Email](https://img.shields.io/badge/Email-%23E1306C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shanzysaleem@example.com)  
-[![Website](https://img.shields.io/badge/Website-%23F78FB3?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shanzy-saleem)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shanzy.saleem@example.com)  
+[![Website](https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=firefox&logoColor=white)](https://shanzy.saleem.dev)
 
 ---
 
-## A Glimpse Into My Process
+*Thanks for visiting — let’s create something amazing together!*
 
-> Sketches and wireframes are the roots from which great designs grow. I believe in starting with solid foundations, iterating with feedback, and refining every detail for perfection.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Sketching to wireframe animation" width="350" />
-</p>
-
----
-
-## Sample Code Snippet
-
-Here’s a simple example of how I keep my code clean and approachable — a styled button that invites interaction:
-
-```html
-<button style="background-color:#F78FB3; color:white; padding:10px 20px; border:none; border-radius:5px; cursor:pointer;">
-  Click Me
-</button>
-# Shanzy Saleem 🌸  
-### Expert UI/UX Designer & WordPress Developer
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=28&pause=1200&color=F78FB3&width=500&lines=Designing+with+purpose;Crafting+engaging+experiences;Building+beautiful+websites" alt="Typing animation" />
-</p>
-
----
-
-## About Me
-
-I’m Shanzy Saleem, a passionate UI/UX designer and WordPress developer with a flair for crafting digital experiences that balance elegance and usability. I believe every design should tell a story — one that connects users emotionally and makes their journey effortless.
-
-With years of experience transforming ideas into intuitive interfaces, I specialize in creating responsive, accessible, and visually compelling websites that empower brands and delight users.
-
----
-
-## What I Do
-
-- **User Interface Design:** Creating clean, modern, and user-friendly layouts using the latest design principles and tools.  
-- **User Experience Strategy:** Focusing on seamless interactions and intuitive flows that boost engagement and retention.  
-- **WordPress Development:** Building robust, scalable WordPress sites, custom themes, and plugins that perfectly fit client needs.  
-- **Responsive Design:** Ensuring flawless performance across all devices and screen sizes.  
-- **Collaboration:** Working closely with clients and developers to deliver pixel-perfect results on time.
-
----
-
-## My Toolbox
-
-| Design                | Development              | Collaboration           |
-|-----------------------|--------------------------|-------------------------|
-| Figma, Adobe XD, Sketch | WordPress, PHP, HTML, CSS, JavaScript | Git, GitHub, Slack, Trello |
-
----
-
-## My Approach
-
-Design is more than aesthetics — it’s about empathy and understanding real users’ needs. I dive deep into user research and feedback to craft experiences that feel natural and enjoyable.
-
-I’m a strong believer in **clean code, reusable components, and scalable architecture**, ensuring that every website is easy to maintain and extend.
-
----
-
-## Selected Work
-
-Here are a few projects that reflect my style and expertise:
-
-- [Portfolio Website](https://yourportfolio.com) — Showcasing my UI/UX and development skills  
-- [Client Project 1](https://clientproject1.com) — WordPress custom theme with advanced functionality  
-- [Client Project 2](https://clientproject2.com) — Responsive e-commerce site with seamless UX  
-
-*(Feel free to replace the links with your real projects)*
-
----
-
-## Let’s Connect!
-
-I’m always open to new opportunities, collaborations, or simply to chat about design and development.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23E1306C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanzysaleem)  
-[![Email](https://img.shields.io/badge/Email-%23E1306C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shanzysaleem@example.com)  
-[![Website](https://img.shields.io/badge/Website-%23F78FB3?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-
----
-
-## A Glimpse Into My Process
-
-> Sketches and wireframes are the roots from which great designs grow. I believe in starting with solid foundations, iterating with feedback, and refining every detail for perfection.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Sketching to wireframe animation" width="350" />
-</p>
-
----
-
-## Sample Code Snippet
-
-Here’s a simple example of how I keep my code clean and approachable — a styled button that invites interaction:
-
-```html
-<button style="background-color:#F78FB3; color:white; padding:10px 20px; border:none; border-radius:5px; cursor:pointer;">
-  Click Me
-</button>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
