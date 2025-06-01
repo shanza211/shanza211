@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1531746790731-6c087fecd65a?ixlib=rb-4.0.3&auto=format&fit=crop&w=1950&q=80" width="100%" alt="Design Banner" />
+  <img src="[https://images.unsplash.com/photo-1531746790731-6c087fecd65a?ixlib=rb-4.0.3&auto=format&fit=crop&w=1950&q=80](https://miro.medium.com/v2/resize:fit:1400/1*YdJeim_iJpNxW9SU4PHWhg.gif)" width="100%" alt="Design Banner" />
 </p>
 
 <p align="center">
