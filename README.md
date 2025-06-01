@@ -1,6 +1,4 @@
-Absolutely! Here's the full README.md content in one single block for easy copy-pasting into your GitHub repo:
 
-````md
 # 🌸 Crafting Digital Experiences That Feel Like Home
 
 > *Imagine a place where every click feels natural, every interaction tells a story, and design is as thoughtful as a handwritten letter.*
